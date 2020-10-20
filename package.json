@@ -1,0 +1,17 @@
+{
+  "name": "defiat-ui",
+  "version": "1.0.0",
+  "description": "Styles used for DeFiat web",
+  "main": "index.js",
+  "dependencies": {
+    "blk-design-system-react": "^1.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "compile-sass": "node-sass scss/defiat.scss build/defiat.css",
+    "minify-sass": "node-sass scss/defiat.scss build/defiat.min.css --output-style compressed",
+    "map-sass": "node-sass scss/defiat.scss build/defiat.css --source-map true"
+  },
+  "author": "",
+  "license": "ISC"
+}

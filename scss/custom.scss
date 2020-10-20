@@ -1,0 +1,93 @@
+.section {
+  padding: 50px 0;
+}
+
+.bg {
+  position: absolute;
+  opacity: 0.2;
+  z-index: 1;
+}
+
+.landing-1 {
+  top: 35%;
+  left: 5%;
+}
+
+.landing-2 {
+  top: 10%;
+  right: 5%;
+  max-width: 100px;
+  height: auto;
+}
+
+.landing-3 {
+  top: -5%;
+  right: 12%;
+  max-width: 200px;
+  height: auto;
+}
+
+.landing-4 {
+  top: 40%;
+  left: 10%;
+  max-width: 75px;
+  height: auto;
+}
+
+.landing-5 {
+  bottom: 5%;
+  right: 7%;
+  height: auto;
+  max-width: 50px;
+}
+
+.landing-6 {
+  top: 0%;
+  left: 5%;
+  height: auto;
+  max-width: 100px;
+}
+
+
+.about-1 {
+  top: 15%;
+  left: 10%;
+  height: auto;
+  max-width: 150px;
+}
+
+.about-2 {
+  bottom: 5%;
+  right: 15%;
+  max-width: 200px;
+}
+
+.about-3 {
+  top: 5%;
+  left: 5%;
+  max-width: 300px;
+}
+
+.about-4 {
+  bottom: 5%;
+  right: 15%;
+  max-width: 100px;
+}
+
+.about-5 {
+  top: 5%;
+  left: 5%;
+  max-width: 100px;
+}
+
+.about-6 {
+  top: 0;
+  right: 7%;
+  max-width: 150px;
+}
+
+.about-7 {
+  top: 30%;
+  left: 7%;
+  max-width: 75px;
+}
